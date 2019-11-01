@@ -71,7 +71,6 @@ public class EDF_GUI {
 	Back_End backend=new Back_End();
 	boolean isfile=false;
 	boolean isratio=false;
-	private int fkyou;
 	private JLabel startlb2= new JLabel();
 	private JLabel startlb3= new JLabel();
 
